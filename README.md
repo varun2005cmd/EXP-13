@@ -108,7 +108,8 @@ int main() {
 ~~~
 
 ## Code Ouput: -
-![](https://github.com/Sundar13905/constructors/blob/main/Constructor_overloading.png)
+![image](https://github.com/user-attachments/assets/69e6d220-ca48-40b0-b8db-fbd16de1059a)
+
 
 
 ## Conclusion: -
